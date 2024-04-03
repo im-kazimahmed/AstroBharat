@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "23651988021",
+    "firebase_url": "https://astrology-gmg-default-rtdb.firebaseio.com",
+    "project_id": "astrology-gmg",
+    "storage_bucket": "astrology-gmg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23651988021:android:2ba8d7f007c6e9f92eb77c",
+        "android_client_info": {
+          "package_name": "com.astrobharat_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23651988021-pm3l351420n87gral3gnleiqj532p51j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1rZxWLacZGxrzc4GujEXhVyTE0IoqqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23651988021-pm3l351420n87gral3gnleiqj532p51j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23651988021:android:108c3b17f819f54d2eb77c",
+        "android_client_info": {
+          "package_name": "com.astrobharat_vender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23651988021-pm3l351420n87gral3gnleiqj532p51j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1rZxWLacZGxrzc4GujEXhVyTE0IoqqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23651988021-pm3l351420n87gral3gnleiqj532p51j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
